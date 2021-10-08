@@ -1,1 +1,2 @@
 kglab
+rdflib-jsonld
