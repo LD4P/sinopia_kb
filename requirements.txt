@@ -1,1 +1,2 @@
-kglab
+kglab == 0.4.0
+rdflib == 5.0.0
